@@ -1,41 +1,28 @@
-![](https://komarev.com/ghpvc/?username=Hiheys&color=df2e47)
+<h1 align="center">Hi 👋, I'm Hiheys</h1>
+<h3 align="center">Fanatic of custom keyboard, 3d printing and develop in js/py</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiheys&label=Profile%20views&color=0e75b6&style=flat" alt="hiheys" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiheys" alt="hiheys" /></a> </p>
 
-   
-   <img align="center" src="https://i.imgur.com/nWRrNXs.png"></a>
-   <h1 align="center">Hi, I'm Hiheys</h1>
-   
-   
-   <p align="left">
-      What to you want?
-   </p>
-   
-   <p align="center"> <img src="https://i.imgur.com/Ebl4zBK.png" alt="pasek" style="height:10px;" align="center">
-   
-   <h1 align="center">My hobbies?</h1>
-   <p align="center">
-      3D printing, custom keyboard, simple js project's and simple .py apps
-   </p>
-   
-   <p align="center"> <img src="https://i.imgur.com/Ebl4zBK.png" alt="pasek" style="height:10px;" align="center">
-   
-   <h1 align="center">Do you want to contact with me?</h1>
-   <p align="center">
-   
-   <a href="https://discord.com/users/971724404608356433" target="_blank">
-   <img src="https://i.imgur.com/LiYYR0I.png" alt="discord-icon" style="height:50px">
-   </a>
+- 🔭 I’m currently working on [beow bot](https://beow.app)
 
-   </p>
-   
-</p>
-<p align="center">
-   Click this icon and write to me!
+- 🌱 I’m currently learning **typescript**
+
+- 👨‍💻 All of my projects are available at [https://hiheys.space](https://hiheys.space)
+
+- 💬 Ask me about **3d printing issue or cutomize your keyboard**
+
+- 📫 How to reach me **hiheys@o2.pl**
+
+- ⚡ Fun fact **Im certified stitch enjoyer**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/Yj8pXAChRa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yj8pXAChRa" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Jasiooo">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiheys&show_icons=true&locale=en&layout=compact" alt="hiheys" /></p>
