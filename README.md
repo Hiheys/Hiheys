@@ -3,7 +3,7 @@
 
 
    
-   <img src="https://i.imgur.com/nWRrNXs.png" align="center">
+   <img align="center" src="https://i.imgur.com/nWRrNXs.png"></a>
    <h1 align="center">Hi, I'm Hiheys</h1>
    
    
