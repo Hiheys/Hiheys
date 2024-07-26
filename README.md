@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Hiheys&color=df2e47)
 
-<p align="center">
-   <a href= "https://discord.com/users/951186023507963945"><img align="left" src="https://i.imgur.com/nWRrNXs.png" /</a>
-</p>
+
 
 <p align="center">
    
