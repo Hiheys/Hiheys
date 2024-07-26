@@ -1,6 +1,5 @@
 ![Header](https://i.imgur.com/n2HNSkS.png)
 
-<h1 align="center">Hi 👋, I'm Hiheys</h1>
 <h3 align="center">Fanatic of custom keyboard, 3d printing and develop in js/py</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiheys&label=Profile%20views&color=0e75b6&style=flat" alt="hiheys" /> </p>
