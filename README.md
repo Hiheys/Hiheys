@@ -1,4 +1,4 @@
-![Header]([./your-header-image-name.png](https://i.imgur.com/n2HNSkS.png))
+![Header](https://i.imgur.com/n2HNSkS.png)
 
 <h1 align="center">Hi 👋, I'm Hiheys</h1>
 <h3 align="center">Fanatic of custom keyboard, 3d printing and develop in js/py</h3>
