@@ -2,10 +2,8 @@
 
 
 
-<p align="center">
    
-   
-   
+   <img src="https://i.imgur.com/nWRrNXs.png" align="center">
    <h1 align="center">Hi, I'm Hiheys</h1>
    
    
