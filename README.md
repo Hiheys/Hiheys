@@ -5,17 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiheys&label=Profile%20views&color=0e75b6&style=flat" alt="hiheys" /> </p>
 
 
-- 🔭 I’m currently working on [beow bot](https://beow.app)
+- I’m currently working on **[https://beow.app](https://beow.app)**
 
-- 🌱 I’m currently learning **typescript**
+- I’m currently learning **typescript**
 
-- 👨‍💻 All of my projects are available at [https://hiheys.space](https://hiheys.space)
+- All of my projects are available at **[https://hiheys.space](https://hiheys.space)**
 
-- 💬 Ask me about **3d printing issue or cutomize your keyboard**
+- Ask me about **3d printing issue or cutomize your keyboard**
 
-- 📫 How to reach me **hiheys@o2.pl**
+- How to reach me **hiheys@o2.pl**
 
-- ⚡ Fun fact **Im certified stitch enjoyer**
+- Fun fact **Im certified stitch enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
