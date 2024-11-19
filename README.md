@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bartosz (Hiheys) and I'm a amateur web dev from Poland</h2>
+<h2 align="center">Hi 👋! My name is Bartosz (Hiheys) and I'm a amateur web dev from Poland</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hiheys.Hiheys&left_color=aliceblue&right_color=aquamarine"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hiheys.Hiheys&left_color=darkcyan&right_color=turquoise"  />
 </div>
 
 ###
