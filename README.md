@@ -45,20 +45,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hiheys&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hiheys/count.svg?"  />
-</div>
-
-###
-
