@@ -27,6 +27,7 @@
 | [oh-my-posh autoinstaller](https://github.com/Hiheys/oh-my-posh-autoinstaller) | one-click Oh My Posh setup script |
 | [GC9A01 Round Display ESP32C3](https://github.com/Hiheys/GC9A01-TFT-1.28-Round-display-ESP32C3) | round TFT display driver for ESP32C3 |
 | [bartoszkaczmarek.tech](https://bartoszkaczmarek.tech) | personal portfolio — Next.js + Tailwind |
+| [Spotify-keychain-generator-3D](https://github.com/Hiheys/Spotify-keychain-generator-3D) | Custom Code Generator — Python + .step |
 
 ---
 
